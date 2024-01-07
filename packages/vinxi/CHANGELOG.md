@@ -1,5 +1,12 @@
 # vinxi
 
+## 0.1.2
+
+### Patch Changes
+
+- bb16563: fix: toWebRequest lazily creates readable stream for `body` access
+  - @vinxi/devtools@0.1.1
+
 ## 0.1.1
 
 ### Patch Changes
